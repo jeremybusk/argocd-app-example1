@@ -12,7 +12,7 @@ data:
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Hello from Argo CD</title>
+        <title>Hello 2 from Argo CD</title>
         <style>
           body {
             margin: 0;
