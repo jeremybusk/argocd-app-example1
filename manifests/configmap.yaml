@@ -12,7 +12,7 @@ data:
       <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Hello 2 from Argo CD</title>
+        <title>Hello from Argo CD</title>
         <style>
           body {
             margin: 0;
@@ -44,7 +44,7 @@ data:
       </head>
       <body>
         <main>
-          <h1>Hello 2, Argo CD.</h1>
+          <h1>Hello 2a, Argo CD.</h1>
           <p>This nginx app is deployed from the argocd-app-example1 Git repository.</p>
         </main>
       </body>
