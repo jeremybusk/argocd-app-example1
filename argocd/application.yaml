@@ -8,7 +8,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:jeremybusk/argocd-app-example1.git
+    # repoURL: git@github.com:jeremybusk/argocd-app-example1.git
+    repoURL: https://github.com/jeremybusk/argocd-app-example1.git
     targetRevision: main
     path: manifests
   destination:
