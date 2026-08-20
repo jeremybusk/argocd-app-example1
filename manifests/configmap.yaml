@@ -44,7 +44,7 @@ data:
       </head>
       <body>
         <main>
-          <h1>Hello 2a, Argo CD.</h1>
+          <h1>Hello 3, Argo CD.</h1>
           <p>This nginx app is deployed from the argocd-app-example1 Git repository.</p>
         </main>
       </body>
