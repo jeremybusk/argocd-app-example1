@@ -18,11 +18,11 @@ kubectl apply -f argocd/application.yaml
 The Application deploys the app into the `argocd-app-example1` namespace and
 creates that namespace automatically if your Argo CD installation has permission.
 
-The app exposes an internal ClusterIP service named `nginx-hello-world` on port
+The app exposes an internal ClusterIP service named `sdx-nginx-hello-world` on port
 80. To test it from your machine:
 
 ```sh
-kubectl -n argocd-app-example1 port-forward svc/nginx-hello-world 8080:80
+kubectl -n argocd-app-example1 port-forward svc/sdx-nginx-hello-world 8080:80
 ```
 
 Then open `http://localhost:8080`.
